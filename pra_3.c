@@ -21,7 +21,8 @@ int main()
     printf("2.Delete Element from Stack\n");
     printf("3.Diplay Element of Stack\n");
     printf("4.Peep Operation\n");
-    printf("5.Exit\n");
+    printf("5.Change Operation\n");
+    printf("6.Exit\n");
     printf("Enter Choice:");
     scanf("%d",&choice);
     

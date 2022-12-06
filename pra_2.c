@@ -33,5 +33,5 @@ int main() {
     pointer1 = realloc(pointer1, a * sizeof(int));
     printf("\nMemory is re-allocated using realloc to a");
     
-    return 0;
+    return 0;
 }
